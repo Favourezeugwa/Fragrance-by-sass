@@ -1,2 +1,2 @@
 # Fragrance-by-sass
-A mini project using sass preprocessor
+A mini project using scss preprocessor
