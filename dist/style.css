@@ -1,0 +1,35 @@
+html {
+  box-sizing: border-box;
+  font-size: 100%;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--background-color);
+  font-family: "Nunito Sans", sans-serif;
+  color: var(--text-color);
+}
+
+h1, h2, h3 {
+  font-weight: 700;
+  line-height: 1.1;
+  margin-top: 0;
+}
+
+p {
+  margin-top: 0;
+}
+
+a, a:visited, a:active {
+  text-decoration: none;
+}
+
+:root {
+  --background-color: rgb(32, 32, 32);
+  --text-color: #fff;
+}/*# sourceMappingURL=style.css.map */
